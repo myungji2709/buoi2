@@ -58,6 +58,7 @@ function App() {
   return (
     <div>
       <h2>ahihi đồ ngốc</h2>
+      <h2>ahihi tui không ngốc</h2>
       <h2 style={bgStyle}>React JS</h2>
       <h1>{x}</h1>
       <h1>name:{text}</h1>
