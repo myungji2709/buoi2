@@ -10,7 +10,7 @@ function App() {
   const [list, setList] = useState([1, 2, 3, 4]);
   const vidu = [
     { name: "Heo", old: 2 },
-    { name: "Chó", old: 3 },
+    { name: "Mèo", old: 3 },
   ];
   const [list2, setList2] = useState(() => {
     let listLocal;
